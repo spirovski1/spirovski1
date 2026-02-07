@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=270&color=03045e&text=Full-Stack%20Web%20Developer&section=header&reversal=false&fontColor=FFF&animation=fadeIn&fontSize=40&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=270&color=03045e&text=Software-Engineering%20Student&section=header&reversal=false&fontColor=FFF&animation=fadeIn&fontSize=40&textBg=false)
 
 # 💫 About Me:
 I'm @spirovski1 a Software Engineering student with a passion for programming and technology. Focused on developing practical skills, exploring new tools, and building efficient digital solutions. Motivated to learn, grow, and gain professional experience in the field of software development.
